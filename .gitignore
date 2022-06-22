@@ -1,0 +1,3 @@
+*.solutions.ts
+.idea/
+node_modules
